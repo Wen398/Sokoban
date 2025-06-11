@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1749630335 source:c:\users\bryan\desktop\sokoban\sokoban\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<conio.h>
+
